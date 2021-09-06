@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    [
+      "babel-plugin-jsx-dom-expressions",
+      {
+        "moduleName": "valtio-jsx"
+      }
+    ]
+  ]
+}
